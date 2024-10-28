@@ -38,7 +38,7 @@ git push
 // ir a heroku
 //heroku git:remote -a tonyescobgt-restserver
 //git push heroku main
-//https://tonyescobgt-restserver.herokuapp.com/ deployed to Heroku
+//https://rtzepi-restserver.herokuapp.com/ deployed to Heroku
 // La app no funciona porque no le dijimos en el PackageJson cómo iniciar
 // agregar en el package.json en script "start": "node app6"
 //git add .
